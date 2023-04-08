@@ -10,7 +10,7 @@
 	  <script type="text/javascript" src="js/jquery.min.js"></script>
 	  <script type="text/javascript" src="js/bootstrap.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
-    <title>Zakat Kuy</title>
+    <title>Zakat Kuyy</title>
 </head>
 <body>
 <!-- Navbar -->

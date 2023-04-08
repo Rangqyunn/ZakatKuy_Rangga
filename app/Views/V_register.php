@@ -12,7 +12,7 @@
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.2.0/mdb.min.js"></script>
-    <title>Zakat-in | Register</title>
+    <title>Zakat Kuy | Register</title>
   </head>
   <body>
     <!-- Background image -->
@@ -27,8 +27,8 @@
  
             <div class="col-6">
             <br></br>
-            <center><font face="Spongeboy"><h1 style="color: #84FFFF;">Zakat-in</h1></font></center>    
-            <center><h2 style="color: #84FFFF;">Aplikasi Web Zakat Modern</h2></center>
+            <center><font face="Spongeboy"><h1 style="color: #84FFFF;">Zakat kuy/h1></font></center>    
+            <center><h2 style="color: #84FFFF;">Web Zakat </h2></center>
             
                 <?php if(isset($validation)):?>
                     <div class="alert alert-danger"><?= $validation->listErrors() ?></div>
@@ -73,7 +73,7 @@
 </style>
 
 <div id="my-text" style="color: #84FFFF;">
-   Owner Information : Zakat-in by Harsya Febrydias
+   Bang udah bang
 </div>    
     <!-- Popper.js first, then Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

@@ -17,7 +17,7 @@
 			font-family: Verdana, Geneva, sans-serif;
 		}
 	</style>
-    <title>Zakat Kuy</title>
+    <title>Zakat Kuyy</title>
 </head>
 <body>
 <div class="wrapper">
